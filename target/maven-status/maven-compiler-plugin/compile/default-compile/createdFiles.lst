@@ -1,0 +1,15 @@
+com\mycompany\marketplacesimulation\DigitalProduct.class
+com\mycompany\marketplacesimulation\Invoice.class
+com\mycompany\marketplacesimulation\Category.class
+com\mycompany\marketplacesimulation\MarketPlace.class
+com\mycompany\marketplacesimulation\Product.class
+com\mycompany\marketplacesimulation\OnlineInvoice.class
+com\mycompany\marketplacesimulation\PrintedInvoice.class
+com\mycompany\marketplacesimulation\Customer.class
+com\mycompany\marketplacesimulation\Order.class
+com\mycompany\marketplacesimulation\OrderItem.class
+module-info.class
+com\mycompany\marketplacesimulation\App.class
+com\mycompany\marketplacesimulation\HomeView.class
+com\mycompany\marketplacesimulation\SystemInfo.class
+com\mycompany\marketplacesimulation\PhysicalProduct.class
