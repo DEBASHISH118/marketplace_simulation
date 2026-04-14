@@ -8,13 +8,11 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) {
-        // Load the HomeView we created above
+
         HomeView homeView = new HomeView();
         
-        // Put it in a Scene
         Scene scene = new Scene(homeView, 640, 480);
         
-        // Show the window
         stage.setScene(scene);
         stage.setTitle("Marketplace Sim");
         stage.show();

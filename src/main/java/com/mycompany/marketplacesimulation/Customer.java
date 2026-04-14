@@ -20,7 +20,7 @@ public class Customer {
     }
 
     public void register() {
-        // Mock registration logic
+
     }
 
     public Order generateOrder(int orderId) {
